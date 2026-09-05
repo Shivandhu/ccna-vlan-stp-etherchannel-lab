@@ -1,5 +1,6 @@
 # ccna-vlan-stp-etherchannel-lab
 
+
 Practiced
 Vlan - Vlan config, SVI, Intervlan routing using L3 switch
 Etherchannel - LACP
