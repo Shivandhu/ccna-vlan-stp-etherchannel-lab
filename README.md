@@ -1,2 +1,2 @@
-# CCNA-1
+# ccna-vlan-stp-etherchannel-lab
 Etherchannel, SVI, Inter-VLAN routing, STP
